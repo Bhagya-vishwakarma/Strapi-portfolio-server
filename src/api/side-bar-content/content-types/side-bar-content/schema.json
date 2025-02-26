@@ -1,0 +1,17 @@
+{
+  "kind": "singleType",
+  "collectionName": "side_bar_contents",
+  "info": {
+    "singularName": "side-bar-content",
+    "pluralName": "side-bar-contents",
+    "displayName": "Side Bar Content"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "SideBar": {
+      "type": "string"
+    }
+  }
+}
